@@ -1,4 +1,4 @@
-Програма запускаєть за допомогою команди docker-compose up.
-Є можливість створити багато ресторанів з меню на кожен день.
-Також є можливість добавити юзера який зможе проголосувати(поставити рейтинг ресторану,
-який йому сподобався найбільше),є функція вибору ресторану, який набрав найбільше голосів(рейтинг).
+The program is launched using the command docker-compose build, and then docker-compose up.
+It is possible to create many restaurants with menus for each day.
+It is also possible to add a user who can vote (rate the restaurant,
+which he liked the most), there is a function of choosing the restaurant that received the most votes (rating).
